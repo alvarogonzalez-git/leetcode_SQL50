@@ -8,5 +8,5 @@ where salary < 30000
     select
         employee_id
     from Employees
-)
+    )
 order by employee_id
